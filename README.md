@@ -18,3 +18,4 @@ Considerando a base do projeto desenvolvida durante o Bootcamp, algumas alteraç
 
 Para testar o projeto, existem duas opções:
 - Baixe o repositório e abra o arquivo `index.html` em um navegador
+- Acesse o GitHub Pages do projeto: https://infinitemarcus.github.io/hackoonflix-dio/
